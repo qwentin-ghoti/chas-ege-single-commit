@@ -1,0 +1,53 @@
+{% extends "../sh/legacy.html" %}
+
+{% block title %}Оболочка мини-интеграции - {% endblock %}
+
+{% block css %}
+	<script>
+		addstyle("../css/mini.css");
+	</script>
+{% endblock %}
+
+{% block preinit %}
+	<script>
+		//Эксперимент - какой дизайн будет популярнее
+		if(Math.random()<0.2){
+			document.location.href=document.location.href.replace("/sh/mini.html","/c2/mini.html");
+		}
+		chas.mode.withoutMenu=1;
+		chas.mode.withoutSlider=1;
+	</script>
+{% endblock %}
+
+{% block content %}
+	<div id="wrap-pole">
+	<div>
+		<div class="egeok" id="check-yourself-strip" style="background-color:#8B8;text-align:center;padding:0.5em;vertical-align:middle;margin-bottom:0.5em;">
+			<b style="font-size:146%;color:white;">
+				Проверь себя
+			</b>
+		</div>
+	</div>
+		<div id="pole" class="vopr">
+		</div>
+	</div>
+	<div id="protv">
+	</div>
+	<div id="wrap">
+		<div id="panel">
+			<span id="notv">
+				Ответ:
+			</span>
+			<button id="prov">Ответить!
+			</button>
+			<button id="sozd" onclick="sozdat();">Составить задание
+			</button>
+			<div id="wrap-otv">
+				<input id="otv"/>
+			</div>
+		</div>
+	</div>
+	<script>
+		addscript('mini.js');
+	</script>
+{% endblock %}

@@ -1,0 +1,61 @@
+{% extends "../sh/legacy.html" %}
+
+{% block title %}Полный интерактивный тест - {% endblock %}
+
+{% block css %}
+	<script>
+		addstyle("../css/pech.css");
+	</script>
+{% endblock %}
+
+{% block preinit %}
+	<script>
+		chas.naborRequired=1;
+	</script>
+{% endblock %}
+
+{% block content %}
+	<div id="readiness-message">
+		<div id="pr0">
+			<div id="t0" class="tx">
+				0%
+			</div>
+		</div>
+		<div id="pr1">
+			<div id="t1" class="tx">
+			</div>
+		</div>
+		<div id="vrem">		
+		</div>
+	</div>
+	<div id="panel">
+		<div>
+			Выберите необходимое количество заданий каждого типа:
+		</div>
+		<br/>
+		<table class="bezramok" id="zadaniya">
+		</table>
+		<br/>
+		<div>
+			<div id="galki_kat">
+			</div>
+			<button onclick="zapusk();">Запуск!</button>
+			<button onclick="vse1();">Стандартный тест</button>
+			<button onclick="vse0();">Сбросить все</button>
+		</div>
+	</div>
+	<div class="otstup">
+		<div id="rez">
+		</div>	
+		<div id="prov_knopki">
+			<button id="but_prov" onclick="prov();">
+				Проверить!
+			</button>
+			<button onclick="location.reload();">
+				Другой тест
+			</button>
+		</div>	
+	</div>
+	<script src='poln.js'></script>
+{% endblock %}
+

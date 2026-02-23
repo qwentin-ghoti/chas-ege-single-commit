@@ -1,0 +1,2042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:creation-date>2023-10-22T20:00:00.713622823</meta:creation-date><dc:date>2025-10-25T23:35:35.376753166</dc:date><meta:editing-duration>P9DT9H2M8S</meta:editing-duration><meta:editing-cycles>117</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/dc89aa7a9eabfd848af146d5086077aeed2ae4a5</meta:generator><meta:document-statistic meta:table-count="4" meta:cell-count="406" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">71497</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">11024</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="ЕГЭ база">
+       <config:config-item config:name="CursorPositionX" config:type="int">24</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">1</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">152</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">3</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">7</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">118</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="ЕГЭ профиль В">
+       <config:config-item config:name="CursorPositionX" config:type="int">18</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">4</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">1</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">151</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">3</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">17</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">118</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="ЕГЭ профиль С">
+       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">6</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">1</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">118</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="ОГЭ">
+       <config:config-item config:name="CursorPositionX" config:type="int">7</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">6</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">118</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">ЕГЭ база</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1241</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">118</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsValueHighlightingEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HP-LaserJet-1200</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">ru</config:config-item>
+     <config:config-item config:name="Country" config:type="string">RU</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sgH+/0hQLUxhc2VySmV0LTEyMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUC1MYXNlckpldC0xMjAwAAAAAAAAAAAAAAAWAAMA0wAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFAtTGFzZXJKZXQtMTIwMApvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQASW5wdXRTbG90OkRlZmF1bHQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Ubuntu" svg:font-family="Ubuntu" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="12.5mm"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="ru" fo:country="RU" style:font-name-asian="DejaVu Sans" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N108P0" style:volatile="true">
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+   <number:currency-symbol number:language="ru" number:country="RU">руб.</number:currency-symbol>
+  </number:currency-style>
+  <number:currency-style style:name="N108">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+   <number:currency-symbol number:language="ru" number:country="RU">руб.</number:currency-symbol>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N108P0"/>
+  </number:currency-style>
+  <style:style style:name="Default" style:family="table-cell">
+   <style:text-properties style:font-name-asian="Noto Sans CJK SC Regular" style:font-family-asian="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:color="#000000" fo:font-size="18pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:color="#000000" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Text" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Note" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #808080"/>
+   <style:text-properties fo:color="#333333" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#808080" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Hyperlink" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#0000ee" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#0000ee" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Status" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Good" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ccffcc"/>
+   <style:text-properties fo:color="#006600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Neutral" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffffcc"/>
+   <style:text-properties fo:color="#996600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Bad" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffcccc"/>
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Warning" style:family="table-cell" style:parent-style-name="Status">
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Error" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#cc0000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent_20_1" style:display-name="Accent 1" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#000000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_2" style:display-name="Accent 2" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#808080"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#dddddd"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N108"/>
+  <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties style:rotation-angle="90"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="26.07mm"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="33.69mm"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="33.83mm"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="29.99mm"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="22.58mm"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="34.84mm"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="28.61mm"/>
+  </style:style>
+  <style:style style:name="co8" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="27.6mm"/>
+  </style:style>
+  <style:style style:name="co9" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="29.92mm"/>
+  </style:style>
+  <style:style style:name="co10" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="33mm"/>
+  </style:style>
+  <style:style style:name="co11" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="37.99mm"/>
+  </style:style>
+  <style:style style:name="co12" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="28.06mm"/>
+  </style:style>
+  <style:style style:name="co13" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="41.45mm"/>
+  </style:style>
+  <style:style style:name="co14" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="43.53mm"/>
+  </style:style>
+  <style:style style:name="co15" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="28.52mm"/>
+  </style:style>
+  <style:style style:name="co16" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="36.23mm"/>
+  </style:style>
+  <style:style style:name="co17" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="32.91mm"/>
+  </style:style>
+  <style:style style:name="co18" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="30.6mm"/>
+  </style:style>
+  <style:style style:name="co19" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="29.69mm"/>
+  </style:style>
+  <style:style style:name="co20" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="29.21mm"/>
+  </style:style>
+  <style:style style:name="co21" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="29.46mm"/>
+  </style:style>
+  <style:style style:name="co22" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="34.52mm"/>
+  </style:style>
+  <style:style style:name="co23" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="24.84mm"/>
+  </style:style>
+  <style:style style:name="co24" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="25.52mm"/>
+  </style:style>
+  <style:style style:name="co25" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="25.75mm"/>
+  </style:style>
+  <style:style style:name="co26" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="27.15mm"/>
+  </style:style>
+  <style:style style:name="co27" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="25.84mm"/>
+  </style:style>
+  <style:style style:name="co28" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="24.15mm"/>
+  </style:style>
+  <style:style style:name="co29" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="36.37mm"/>
+  </style:style>
+  <style:style style:name="co30" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="28.98mm"/>
+  </style:style>
+  <style:style style:name="co31" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="25.29mm"/>
+  </style:style>
+  <style:style style:name="co32" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="32.76mm"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="4.52mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="8.41mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro3" style:family="table-row">
+   <style:table-row-properties style:row-height="12.33mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro4" style:family="table-row">
+   <style:table-row-properties style:row-height="12.36mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro5" style:family="table-row">
+   <style:table-row-properties style:row-height="16.32mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro6" style:family="table-row">
+   <style:table-row-properties style:row-height="8.29mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro7" style:family="table-row">
+   <style:table-row-properties style:row-height="12.54mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro8" style:family="table-row">
+   <style:table-row-properties style:row-height="13.67mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ce64" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce65" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="0.06pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce68" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce69" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#dddddd" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce70" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#009900" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce71" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#00cccc" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce72" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #000000" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="0.06pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce75" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#ffcccc" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce76" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#ccff66" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce77" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#00cccc" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce78" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #000000" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce80" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffcccc" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce81" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ccff66" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce82" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#00cccc" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce83" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="0.06pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce86" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#ffcccc" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce87" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#fff200" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce88" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#00cccc" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce89" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #000000" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce90" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#ffcc99" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce91" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#fff200" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce92" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#ff0066" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#dddddd" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#dddddd" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce95" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#dddddd" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce96" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#66ff00" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce97" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#ccff66" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce98" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Liberation Sans" style:font-name-asian="Noto Sans CJK SC Regular" style:font-name-complex="FreeSans"/>
+  </style:style>
+  <style:style style:name="ce73" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="0.06pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce74" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce99" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#009900" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce100" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#fff200" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce101" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="none" fo:border-top="0.06pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce102" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#9933ff" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce103" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #000000" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce104" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffd320" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce112" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#ccff66" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce113" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#9933ff" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce127" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#0084d1" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce44" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#9966cc" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce105" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#66ff00" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce129" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#ff420e" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce47" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#9966cc" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce48" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#9966cc" style:text-align-source="fix" style:repeat-content="false" fo:border="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce49" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#9966cc" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce50" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:text-properties fo:color="#3c3c3c" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Ubuntu" fo:font-size="6.40000009536743pt" fo:language="ru" fo:country="RU" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Ubuntu" style:font-size-asian="6.40000009536743pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Ubuntu" style:font-size-complex="6.40000009536743pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce107" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:background-color="#66ff00" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:style style:name="ce52" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#9966cc" style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="870mm" fo:page-height="177.01mm" style:num-format="1" style:print-orientation="landscape" style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:font-name-asian="Noto Sans CJK SC Regular" style:font-name-complex="FreeSans"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:color="#3c3c3c" style:font-name="Ubuntu" fo:font-size="6.40000009536743pt" style:text-scale="100%" fo:font-weight="normal" style:text-underline-style="none" style:text-underline-color="font-color" style:text-line-through-type="none" fo:font-style="normal" style:text-outline="false" fo:text-shadow="none" style:text-position="0% 100%" style:letter-kerning="true" fo:letter-spacing="normal" style:text-line-through-mode="continuous" fo:language="ru" fo:country="RU" style:language-asian="zh" style:country-asian="CN" style:language-complex="hi" style:country-complex="IN" style:font-name-asian="Ubuntu" style:font-name-complex="Ubuntu" style:font-size-asian="6.40000009536743pt" style:font-size-complex="6.40000009536743pt" style:font-weight-asian="normal" style:font-weight-complex="normal" style:font-style-asian="normal" style:font-style-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Страница <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2025-10-25">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="21:35:25.885876462">00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Страница <text:page-number>1</text:page-number><text:s/>/ <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:automatic-find-labels="false"/>
+   <table:table table:name="ЕГЭ профиль В" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co3" table:number-columns-repeated="2" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co3" table:number-columns-repeated="2" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co11" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co12" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co14" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co15" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="996" table:default-cell-style-name="ce64"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>№задачи</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="float" office:value="2" calcext:value-type="float" table:number-columns-spanned="3" table:number-rows-spanned="1">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:style-name="ce83"/>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="float" office:value="8" calcext:value-type="float" table:number-columns-spanned="4" table:number-rows-spanned="1">
+      <text:p>8</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:covered-table-cell table:style-name="ce83"/>
+     <table:table-cell table:style-name="ce73" office:value-type="float" office:value="9" calcext:value-type="float" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>9</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce83"/>
+     <table:table-cell table:style-name="ce8" office:value-type="float" office:value="10" calcext:value-type="float" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="3" table:style-name="ce101"/>
+     <table:covered-table-cell table:style-name="ce83"/>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="11" calcext:value-type="float">
+      <text:p>11</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="float" office:value="12" calcext:value-type="float" table:number-columns-spanned="4" table:number-rows-spanned="1">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:style-name="ce101"/>
+     <table:covered-table-cell table:style-name="ce83"/>
+     <table:table-cell table:style-name="ce65"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>название</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>планиметрия</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+      <text:p>вектора</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>стереометрия</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>тервер простой</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>тервер сложный</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>уравнения</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>вычисляйки</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="4" table:number-rows-spanned="1">
+      <text:p>производная</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce74" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>прикладные</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>текстовые</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>графики функций</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="4" table:number-rows-spanned="1">
+      <text:p>экстремумы</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>изменения</text:p><text:p>этого года</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce69" office:value-type="string" calcext:value-type="string">
+      <text:p>н/д</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce75" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+      <text:p>появилась в 2024</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce80"/>
+     <table:covered-table-cell table:style-name="ce86"/>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce69" office:value-type="string" calcext:value-type="string">
+      <text:p>н/д</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce92" office:value-type="string" calcext:value-type="string"><text:p>ожидается</text:p><text:p>подлянка</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce69" office:value-type="string" calcext:value-type="string">
+      <text:p>н/д</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="4" table:number-rows-spanned="1">
+      <text:p>н/д</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2" table:style-name="ce28"/>
+     <table:covered-table-cell table:style-name="ce95"/>
+     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>н/д</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce95"/>
+     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>н/д</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="3" table:style-name="ce28"/>
+     <table:covered-table-cell table:style-name="ce95"/>
+     <table:table-cell table:style-name="ce69" office:value-type="string" calcext:value-type="string">
+      <text:p>н/д</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="4" table:number-rows-spanned="1">
+      <text:p>н/д</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2" table:style-name="ce28"/>
+     <table:covered-table-cell table:style-name="ce95"/>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>подкатегории</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>демка</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>обзад — март</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ященко</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>с картинками</text:p><text:p>первообразная</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>с картинками</text:p><text:p>производная</text:p><text:p>касательная</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>с картинками</text:p><text:p>производная</text:p><text:p>без касательной</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>без</text:p><text:p>картинок</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>без</text:p><text:p>картинок</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>с картинкой</text:p><text:p>моста</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>проценты,</text:p><text:p>сплавы,</text:p><text:p>смеси</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>движение</text:p><text:p>по суше</text:p><text:p>по прямой</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>движение</text:p><text:p>протяжённых</text:p><text:p>тел</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>движение</text:p><text:p>по воде</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>работа</text:p><text:p>и трубы</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>все</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>старые</text:p><text:p>совмещённые</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>локальный</text:p><text:p>экстремум</text:p><text:p>без отрезка</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>мин/макс</text:p><text:p>на отрезке</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>покемон:</text:p><text:p>экстремум</text:p><text:p>на промежутке</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>в каком</text:p><text:p>состоянии</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce70" office:value-type="string" calcext:value-type="string">
+      <text:p>PR merged</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce76" office:value-type="string" calcext:value-type="string">
+      <text:p>PR pending</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce81" office:value-type="string" calcext:value-type="string">
+      <text:p>PR pending</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce87" office:value-type="string" calcext:value-type="string"><text:p>нет совсем</text:p><text:p>новых</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce90" office:value-type="string" calcext:value-type="string"><text:p>лоскутное</text:p><text:p>одеяло</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce91" office:value-type="string" calcext:value-type="string">
+      <text:p>ждём Диану</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce70" office:value-type="string" calcext:value-type="string">
+      <text:p>PR merged</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce76" office:value-type="string" calcext:value-type="string">
+      <text:p>PR pending</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce81" office:value-type="string" calcext:value-type="string">
+      <text:p>PR pending</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce96" office:value-type="string" calcext:value-type="string"><text:p>PR merged</text:p><text:p>Final check</text:p><text:p>required</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce99" office:value-type="string" calcext:value-type="string">
+      <text:p>PR merged</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce100" office:value-type="string" calcext:value-type="string"><text:p>нужно</text:p><text:p>рисовать</text:p><text:p>SVG</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce81" office:value-type="string" calcext:value-type="string">
+      <text:p>PR pending (?)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" table:style-name="ce99" office:value-type="string" calcext:value-type="string">
+      <text:p>PR merged</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce96" office:value-type="string" calcext:value-type="string"><text:p>PR merged</text:p><text:p>Final check</text:p><text:p>required</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce112" office:value-type="string" calcext:value-type="string">
+      <text:p>PR pending (?)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce28" office:value-type="string" calcext:value-type="string"><text:p>вроде</text:p><text:p>глючные</text:p><text:p>отключены</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" table:style-name="ce99" office:value-type="string" calcext:value-type="string">
+      <text:p>PR merged</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>навороты</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>метки на отрезках,</text:p><text:p>углы,</text:p><text:p>замена букв</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>проектор</text:p><text:p>(ChatGPT)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>нет</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>setEquationTask;</text:p><text:p>прикрутить</text:p><text:p>mathjs??</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>setEvaluationTask,</text:p><text:p>хотя и не везде</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>парсер</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>decor</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>парсер</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>draw9A*</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>fn_zadan</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>setLocalExtremumTask</text:p><text:p>(mathjs + nerdamer)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>setMinimaxFunctionTask</text:p><text:p>(mathjs)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>нет</text:p><text:p>(mathjs)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>кто делает</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce71" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce77" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce82" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce88" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" table:style-name="ce71" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce69" office:value-type="string" calcext:value-type="string">
+      <text:p>Белозоров</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce71" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce77" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce82" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce97" office:value-type="string" calcext:value-type="string">
+      <text:p>Алендарь</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string">
+      <text:p>Белозоров</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce82" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce77" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce102" office:value-type="string" calcext:value-type="string">
+      <text:p>@Aisse258</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce104" office:value-type="string" calcext:value-type="string">
+      <text:p>@VeronikaKit</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce82" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce71" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce113" office:value-type="string" calcext:value-type="string">
+      <text:p>@Aisse-258</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce127" office:value-type="string" calcext:value-type="string">
+      <text:p>@nickkolok</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce81" office:value-type="string" calcext:value-type="string">
+      <text:p>Алендарь</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce97" office:value-type="string" calcext:value-type="string">
+      <text:p>Алендарь</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>почему</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>так получилось</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="string" calcext:value-type="string">
+      <text:p>срочность</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>она разгребала</text:p><text:p>за Тарабанько</text:p><text:p>и А. Зволинским</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>она разгребала</text:p><text:p>за Тарабанько</text:p><text:p>и А. Зволинским</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>практика-с</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>не успела</text:p><text:p>убежать</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>в дипломе</text:p><text:p>красиво</text:p><text:p>смотрится</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>в дипломе</text:p><text:p>красиво</text:p><text:p>смотрится</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>в дипломе</text:p><text:p>красиво</text:p><text:p>смотрится</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce98" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">в дипломе</text:span></text:p><text:p><text:span text:style-name="T1">красиво</text:span></text:p><text:p><text:span text:style-name="T1">смотрится</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>математики</text:p><text:p>мало,</text:p><text:p>возни много</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>а кто ещё-то?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>не успели</text:p><text:p>остановить</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>сама взялась и в</text:p><text:p>дипломе красиво</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>много и скучно</text:p><text:p>проверять</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>nerdamer глючный,</text:p><text:p>отлаживать дольше,</text:p><text:p>чем писать</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>движок готов</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>в дипломе</text:p><text:p>симпатично</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>много ли?</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>вроде 3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>4 шт. всего (!)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>немного</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>да всё уже</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>штук 5-7</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>17 штук</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>одна такая</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>6 шт. осталось</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>одна</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>12 шт. осталось</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>4-5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>все готовы</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>штук 20-30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>штук 10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>13 шт.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>одна</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>примечание</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>разрезать;</text:p><text:p>переписать с</text:p><text:p>реальными углами</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1"><text:p>вектора, вектора,</text:p><text:p>непонятно ничего</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>конусы и </text:p><text:p>цилиндры надо</text:p><text:p>дорефакторить</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>возможно,</text:p><text:p>чего-то</text:p><text:p>не хватает</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Ященко навалил</text:p><text:p>много в сборник</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>ещё немного</text:p><text:p>Алендарь; его -</text:p><text:p> с решениями</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>надо</text:p><text:p>рефакторить</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#1260</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce74" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1"><text:p><text:a xlink:href="https://github.com/nickkolok/chas-ege/milestone/1" xlink:type="simple">milestone/1</text:a></text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#1427</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>эксперименты</text:p><text:p>(парсер)</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>@SugarHedgehog</text:p><text:p>молодчина!</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>@nickkolok</text:p><text:p>на них</text:p><text:p>учился</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#1253</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>сделана</text:p><text:p>с решением</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:number-columns-repeated="18"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>есть одна</text:p><text:p>внефипишная</text:p><text:p>идея -</text:p><text:p>#1500</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>ещё бывают</text:p><text:p>РешуЕГЭ и Ларин,</text:p><text:p>их реально догонять</text:p><text:p/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>@Aisse-258</text:p><text:p>сделала всё,</text:p><text:p>что могла</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#1414</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:number-columns-repeated="21"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>надо</text:p><text:p>рефакторить</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1"><text:p><text:a xlink:href="https://github.com/nickkolok/chas-ege/milestone/4" xlink:type="simple">milestone/4</text:a></text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell table:number-columns-repeated="997"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048563">
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce72"/>
+     <table:table-cell table:style-name="ce78"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce89"/>
+     <table:table-cell table:style-name="ce72" table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce78"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce89"/>
+     <table:table-cell table:style-name="ce78"/>
+     <table:table-cell table:style-name="ce89"/>
+     <table:table-cell table:style-name="ce78"/>
+     <table:table-cell table:style-name="ce103" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce89"/>
+     <table:table-cell table:style-name="ce72"/>
+     <table:table-cell table:style-name="ce78"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce103"/>
+     <table:table-cell table:style-name="ce89"/>
+     <table:table-cell table:style-name="ce72"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="ЕГЭ профиль С" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co16" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co18" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="2" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co19" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="2" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="1013" table:default-cell-style-name="ce64"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>№задачи</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="16" calcext:value-type="float">
+      <text:p>16</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="17" calcext:value-type="float" table:number-columns-spanned="3" table:number-rows-spanned="1">
+      <text:p>17</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="18" calcext:value-type="float">
+      <text:p>18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="19" calcext:value-type="float">
+      <text:p>19</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>название</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>С1-уравнения</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C2-стереометрия</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>С3-неравенства</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>С4-планиметрия</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+      <text:p>экономика</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>С5-параметры</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>С6</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>изменения</text:p><text:p>этого года</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>закрытая</text:p><text:p>часть</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce68" office:value-type="string" calcext:value-type="string"><text:p>закрытая</text:p><text:p>часть</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce68" office:value-type="string" calcext:value-type="string"><text:p>закрытая</text:p><text:p>часть</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce68" office:value-type="string" calcext:value-type="string"><text:p>закрытая</text:p><text:p>часть</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce68" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1"><text:p>закрытая</text:p><text:p>часть</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce68" office:value-type="string" calcext:value-type="string"><text:p>закрытая</text:p><text:p>часть</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce68" office:value-type="string" calcext:value-type="string"><text:p>закрытая</text:p><text:p>часть</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>подкатегории</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>кредиты</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>вклады</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>прочее</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro6">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>в каком</text:p><text:p>состоянии</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>навороты</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>кто делает</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce97" office:value-type="string" calcext:value-type="string">
+      <text:p>Алендарь</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>почему</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>логично</text:p><text:p>смотрится</text:p><text:p>в дипломе</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>много ли?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>примечание</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>список от Дианы:</text:p><text:p>#1692</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>выглядит почти</text:p><text:p>безнадёжно</text:p><text:p>(но не совсем)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Сложнее С1,</text:p><text:p>но принцип</text:p><text:p>тот же</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>выглядит почти</text:p><text:p>безнадёжно</text:p><text:p>(но не совсем)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>есть</text:p><text:p>много</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>экзотика</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>выглядит почти</text:p><text:p>безнадёжно</text:p><text:p>(но не совсем)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>можно</text:p><text:p>клепать</text:p><text:p>отдельные</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048565">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce72"/>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="ЕГЭ база" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co20" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce14"/>
+    <table:table-column table:style-name="co20" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co21" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co22" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co21" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co23" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co24" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co25" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co26" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co24" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co27" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co28" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co21" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co29" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co30" table:default-cell-style-name="ce19"/>
+    <table:table-column table:style-name="co23" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co24" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce68"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="999" table:default-cell-style-name="ce64"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>№задачи</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="float" office:value="7" calcext:value-type="float" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>7</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce83"/>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="11" calcext:value-type="float">
+      <text:p>11</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="16" calcext:value-type="float">
+      <text:p>16</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="float" office:value="18" calcext:value-type="float" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>18</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce83"/>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="19" calcext:value-type="float">
+      <text:p>19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="999"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>название</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1"><text:p>простейшие</text:p><text:p>текстовые</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>единицы</text:p><text:p>измерения</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>графики и</text:p><text:p>диаграммы</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>прикладные</text:p><text:p>с формулами</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>тервер</text:p><text:p>простой</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>оптимальный</text:p><text:p>вариант</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1"><text:p>анализ</text:p><text:p>графиков и диаграмм</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>логические</text:p><text:p>утверждения</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>квадратная</text:p><text:p>решётка</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>прикладная</text:p><text:p>планиметрия</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>прикладная</text:p><text:p>стереометрия</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>планиметрия</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>стереометрия</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>действия</text:p><text:p>с дробями</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>текстовые</text:p><text:p>на проценты</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>упрощение</text:p><text:p>выражений</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>уравнения</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>неравенства</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>числа и</text:p><text:p>цифры</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>текстовые</text:p><text:p>(табличные)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>заковыристые</text:p><text:p>текстовые</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="999"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro6">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>изменения</text:p><text:p>этого года</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro7">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>подкатегории</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>новые</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>наследие</text:p><text:p>2015 г.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>функции</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>процессы</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="10"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>рисунки с</text:p><text:p>коорд. прямой</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>без рисунков</text:p><text:p>(отв. таблицей)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1002"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>в каком</text:p><text:p>состоянии</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce105" office:value-type="string" calcext:value-type="string"><text:p>PR merged</text:p><text:p>Final check</text:p><text:p>required</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce81" office:value-type="string" calcext:value-type="string">
+      <text:p>PR pending</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce105" office:value-type="string" calcext:value-type="string"><text:p>PR merged</text:p><text:p>Final check</text:p><text:p>required</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>начато</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell table:style-name="ce105" office:value-type="string" calcext:value-type="string"><text:p>PR merged</text:p><text:p>Final check</text:p><text:p>required</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce107" office:value-type="string" calcext:value-type="string"><text:p>PR merged</text:p><text:p>Final check</text:p><text:p>required</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro8">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>навороты</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="13"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>движок с</text:p><text:p>настоящими</text:p><text:p>углами (?)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1009"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>кто делает</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce129" office:value-type="string" calcext:value-type="string">
+      <text:p>@ZeroPlayer</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce82" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce112" office:value-type="string" calcext:value-type="string">
+      <text:p>Алендарь</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>@WhiteDiana</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce129" office:value-type="string" calcext:value-type="string">
+      <text:p>@ZeroPlayer</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce82" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce82" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce82" office:value-type="string" calcext:value-type="string">
+      <text:p>@SugarHedgehog</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>@WhiteDiana</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Алендарь</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce129" office:value-type="string" calcext:value-type="string">
+      <text:p>@ZeroPlayer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Алендарь</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>@VeronikaKit</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce129" office:value-type="string" calcext:value-type="string">
+      <text:p>@ZeroPlayer</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>@VeronikaKit</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Бойко</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="999"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>почему</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Хорошие</text:p><text:p>для новичка</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>в магистерской</text:p><text:p>смотрится</text:p><text:p>интересно</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>не успели</text:p><text:p>остановить</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="10"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>практика!</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>работала с</text:p><text:p>коорд. прямой</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1003"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>много ли?</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>15 штук</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>примерно 45 шт.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>28 шт.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>4-8 шт.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="float" office:value="36" calcext:value-type="float">
+      <text:p>36</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>16-20 шт.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1000"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>примечание</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>до разделения</text:p><text:p>(2014-2015) -</text:p><text:p>В1/В2, там есть</text:p><text:p>несколько</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>до разделения</text:p><text:p>(2014-2015) -</text:p><text:p>В2/В3, там есть</text:p><text:p>несколько</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>есть</text:p><text:p>пересечение</text:p><text:p>с профилем?</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>до разделения</text:p><text:p>(2014-2015) -</text:p><text:p>В4/В5, там есть</text:p><text:p>несколько</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>очень похожи</text:p><text:p>на графики</text:p><text:p>из профиля</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>очень похожи</text:p><text:p>на простые</text:p><text:p>графики</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>много есть</text:p><text:p>в профиле</text:p><text:p>(старые)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>многие — с</text:p><text:p>картинками,</text:p><text:p>но сначала</text:p><text:p>можно и без</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>есть задачи</text:p><text:p>про составные</text:p><text:p>многогранники</text:p><text:p>(из профиля)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>много есть</text:p><text:p>в профиле</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>много есть</text:p><text:p>в профиле</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>до разделения</text:p><text:p>(2014-2015) -</text:p><text:p>В1/В2, там есть</text:p><text:p>несколько</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>много пересечений</text:p><text:p>с ОГЭ №9</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>таблицы?..</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>С6 на </text:p><text:p>минималках;</text:p><text:p>бывают</text:p><text:p>рисунки</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>много</text:p><text:p>пересечений</text:p><text:p>с ЕГЭпроф</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>отдельные</text:p><text:p>можно делать</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="999"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro6">
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string"><text:p>декабрьская</text:p><text:p>дерзость</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>готовы</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce48"/>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>только масса,</text:p><text:p>еле-еле</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>нужны</text:p><text:p>симлинки</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>уж пара</text:p><text:p>найдётся!</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49"/>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>нужны</text:p><text:p>симлинки</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce47"/>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string"><text:p>что-нибудь</text:p><text:p>наскребём</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>нужно</text:p><text:p>делать одну</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string">
+      <text:p>есть</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>нужно</text:p><text:p>делать одну</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>нужно</text:p><text:p>делать одну</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>парочку</text:p><text:p>найдём</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string">
+      <text:p>готовы</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>парочку</text:p><text:p>найдём</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string">
+      <text:p>нужны симлинки</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce47"/>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string"><text:p>одно уже</text:p><text:p>есть</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>нужно</text:p><text:p>делать одну</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49"/>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>несколько</text:p><text:p>есть</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce52" table:number-columns-repeated="999"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="17"/>
+     <table:table-cell table:style-name="ce50" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T2">milestone/13</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048563">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce72" table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce78"/>
+     <table:table-cell table:style-name="ce89"/>
+     <table:table-cell table:style-name="ce72" table:number-columns-repeated="10"/>
+     <table:table-cell table:style-name="ce78"/>
+     <table:table-cell table:style-name="ce89"/>
+     <table:table-cell table:style-name="ce72" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="999"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="ОГЭ" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co31" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co28" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co32" table:default-cell-style-name="ce64"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="1018" table:default-cell-style-name="ce64"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>№задачи</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1-5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7" calcext:value-type="float" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>7</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="11" calcext:value-type="float">
+      <text:p>11</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="16" calcext:value-type="float">
+      <text:p>16</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="18" calcext:value-type="float">
+      <text:p>18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="19" calcext:value-type="float">
+      <text:p>19</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1007"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro6">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>название</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>задачи про сарай</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>числа и неравенства</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>вычисляйки</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce68" office:value-type="string" calcext:value-type="string"><text:p>прикладные</text:p><text:p>с формулами</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro6">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>изменения</text:p><text:p>этого года</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>подкатегории</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>с картинками</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>без картинок</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>в каком</text:p><text:p>состоянии</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>надкусан</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce99" office:value-type="string" calcext:value-type="string"><text:p>PR merged</text:p><text:p>Final check</text:p><text:p>required</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>начато</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1018"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>навороты</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>коорд. прямая</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>setEvaluationTask()</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1018"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>кто делает</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce129" office:value-type="string" calcext:value-type="string">
+      <text:p>@ZeroPlayer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Алендарь!</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce129" office:value-type="string" calcext:value-type="string">
+      <text:p>@ZeroPlayer</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>почему</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>потому что</text:p><text:p>с картинками</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>потому что</text:p><text:p>без картинок</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>практика</text:p><text:p>а что ещё</text:p><text:p>ему дать?!</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1018"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>много ли?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>12 шт. ост.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>страничка</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1018"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>примечание</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>абсолютно</text:p><text:p>проклятые</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>есть нюансы,</text:p><text:p>которые не</text:p><text:p>может движок</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1018"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048565">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>

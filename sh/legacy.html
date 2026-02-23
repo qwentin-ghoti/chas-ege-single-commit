@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{% block title %}{% endblock %}Тренажёр "Час ЕГЭ" {{version_title}}</title>
+	<script>
+		{% include "../build/lib/head.min.js" %}
+	</script>
+	<link rel="shortcut icon" id="link_icon1"/>
+	<link rel="icon" id="link_icon2"/>
+	{% block css %}
+	{% endblock %}
+</head>
+<body onload="startShell();" class="legacy">
+	{% block preinit %}
+	{% endblock %}
+	<div id="document-write">
+	</div>
+	<div id="legacyMenuKeeper">
+	</div>
+	<div id="legacySliderKeeper">
+	</div>
+	<script>
+		addinitjs();
+	</script>
+	<noscript>
+		Для работы тренажёра необходим javascript.
+	</noscript>
+	{% block content %}
+	{% endblock %}
+	<div class="otstup" align="justify">
+		{% block textcontent %}
+		{% endblock %}
+	</div>
+
+	<script>
+		chasStorage.domData.load();
+		window.addEventListener('unload', function() {
+			chasStorage.domData.save();
+		});
+	</script>
+	{% block js %}
+	{% endblock %}
+</body>
+</html>

@@ -1,0 +1,34 @@
+*~
+*.kate-swp
+*.log
+*.~lock.*
+*.orig
+*.local
+*.LOCAL.*
+*.BACKUP.*
+*.BASE.*
+*.REMOTE.*
+*_LOCAL_*
+*_BACKUP_*
+*_BASE_*
+*_REMOTE_*
+*.cache
+*.bak
+
+node_modules
+dist
+build
+temp
+
+package-lock.json
+
+#Упакованные наборы заданий
+zdn/*/upak.js
+
+#Прочие упакованные библиотеки
+lib/head.min.js
+#lib/chas-uijs.js
+
+#Библиотеки
+math.js
+nerdamer.js

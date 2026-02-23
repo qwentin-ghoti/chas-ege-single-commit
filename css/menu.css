@@ -1,0 +1,125 @@
+ul.pureCssMenu ul{
+	display:none;
+	z-index:10;
+}
+ul.pureCssMenu li:hover>ul{
+	display:block
+}
+ul.pureCssMenu ul{
+	position: absolute;
+	left:-1px;
+	top:98%;
+}
+ul.pureCssMenu ul ul{
+	position: absolute;
+	left:98%;
+	top:-2px;
+}
+ul.pureCssMenu,ul.pureCssMenu ul {
+	margin:0px;
+	list-style:none;
+	padding:0px 2px 2px 0px;
+	background-repeat:repeat;
+	border-color:#EEEEEE #AAAAAA #AAAAAA #FFFFFF;
+}
+body.legacy * ul.pureCssMenu,ul.pureCssMenu ul {
+	border-width:2px;
+	border-style:groove;
+}
+ul.pureCssMenu table {
+	border-collapse:collapse;
+}
+ul.pureCssMenu {
+	display:block;
+	zoom:1;
+	float: left;
+}
+ul.pureCssMenu li{
+	display:block;
+	margin:2px 0px 0px 2px;
+}
+ul.pureCssMenu a:active, ul.pureCssMenu a:focus {
+	outline-style:none;
+}
+ul.pureCssMenu a, ul.pureCssMenu li.dis a:hover, ul.pureCssMenu li.sep a:hover {
+	display:block;
+	vertical-align:middle;
+	border-width:0px;
+	border-style:solid;
+	text-align:left;
+	text-decoration:none;
+	padding:3px;
+	_font:bold 'liberation_sans';
+	color: #000000;
+	text-decoration:none;
+	cursor:pointer;
+}
+ul.pureCssMenu span{
+	overflow:hidden;
+}
+ul.pureCssMenu li {
+	float:left;
+}
+ul.pureCssMenu ul li {
+	float:none;
+}
+ul.pureCssMenu ul a {
+	text-align:left;
+	white-space:nowrap;
+}
+ul.pureCssMenu li.sep{
+	text-align:left;
+	padding:0px;
+	line-height:0;
+	height:100%;
+}
+ul.pureCssMenu li.sep span{
+	float:none;
+	padding-right:0;
+	width:5px;
+	height:18px;
+	display:inline-block;
+	background-image:none;
+}
+ul.pureCssMenu ul li.sep span{
+	width:100px;
+	height:5px;
+}
+ul.pureCssMenu li:hover{
+	position:relative;
+}
+ul.pureCssMenu li:hover>a{
+	border-style:solid;
+	color: #091B2D;
+	text-decoration:none;
+}
+ul.pureCssMenu li a:hover{
+	position:relative;
+	border-style:solid;
+	font:bold 'liberation_sans';
+	color: #091B2D;
+	text-decoration:none;
+}
+ul.pureCssMenu li.dis a {
+	color: #AAAAAA !important;
+}
+ul.pureCssMenu a:hover ul{
+	display:block;
+}
+ul.pureCssMenu span.menuitem-span{
+	display:block;
+	padding-right:13px;
+}
+#menucenter{
+	width:100%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	font:14px bold 'liberation_sans';
+}
+body.legacy * ul.pureCssMenum{
+	min-width:100%;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+}

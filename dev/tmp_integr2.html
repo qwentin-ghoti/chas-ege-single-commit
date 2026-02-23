@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+</head>
+<body>
+<div id="chas-predupr" style="color:red;font-size:200%;">
+	Вероятно, Ваш браузер не поддерживается. Попробуйте скачать 
+	<a href="http://mozilla-russia.org/">Firefox</a> или 
+	<a href="https://www.google.com/intl/ru/chrome/browser/">Chrome</a>
+</div>
+Текст в Юникоде.
+<script src="//www.math.vsu.ru/chas-ege/lib/browser.js" charset="UTF-8"></script>
+<script src="../lib/browser.js" charset="UTF-8"></script>
+<script>
+//	chas.integrate("https://www.math.vsu.ru/chas-ege/sh/polnmat.html",{
+	chas.integrate("../sh/polnmat.html",{
+		style:{
+			strCSS:"#menucenter{font-size:12px;} #inf{height:110px;}",
+			pan:'lightblue',
+			fon:'white',
+			menuLinkTarget:'_self',
+		},
+	},900,200,'chas-predupr');
+</script>
+</body>
+</html>

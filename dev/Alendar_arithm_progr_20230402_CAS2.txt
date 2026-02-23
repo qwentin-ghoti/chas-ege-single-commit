@@ -1,0 +1,35 @@
+﻿class ArithmeticProgression {
+	constructor(first, difference) {
+		this.first = first;
+		this.difference = difference;
+		this.nmember = 0;
+
+	}
+
+	member(nmember) {
+		this.nmember = nmember;
+		return this.first + this.difference * (this.nmember - 1);
+	}
+
+	summa(nmember) {
+		this.nmember = nmember;
+		return ((2 * this.first + this.difference * (this.nmember - 1)) / 2) * this.nmember;
+	}
+
+}
+let a;
+let b;
+let n = -1;
+let str = prompt('Введите первый член прогрессии.', '');
+a = Number(str);
+str = prompt('Введите разность арифметической прогрессии.', '');
+b = Number(str);
+while (n <= 0) {
+	str = prompt('Введите номер члена прогрессии. Число должно быть больше нуля!', '');
+	n = Number(str);
+}
+
+let progress = new ArithmeticProgression(a, b);
+
+console.log(progress.member(n));
+console.log(progress.summa(n));

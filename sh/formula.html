@@ -1,0 +1,19 @@
+{% extends "../sh/legacy.html" %}
+
+{% block title %}Отображение формулы - {% endblock %}
+
+{% block textcontent %}
+	Введите формулу (можно с кавычками, можно без): 
+	<br/>
+	<textarea cols="80" id="ish" data-chasstorage-id="formula-textarea"></textarea>
+	<br/>
+	<button onclick="pokaz();">
+		Показать
+	</button>
+	Результат:
+	<br/>
+	<div id="rez">
+	</div>
+	<script src='formula.js'></script>
+{% endblock %}
+

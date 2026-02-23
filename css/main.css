@@ -1,0 +1,102 @@
+.kolvoprav{
+	color:#0d0;
+}
+.kolvonepr{
+	color:#f00;
+}
+body.legacy{
+	min-width:800px;
+	margin:0;
+	padding:0;
+}
+#inf{
+	-moz-box-sizing:border-box;
+	padding:0.2em;
+	box-sizing:border-box;
+	width:100%;
+	clear:left;
+	position:relative;
+}
+#sovety{
+	width:100%;
+}
+#panel{
+	padding:1em;
+}
+#readiness-message{
+	position:fixed;
+	top:0px;
+	right:0px;
+	margin:15px;
+	float:right;
+	overflow:hidden;
+	vertical-align:middle;
+	border-radius:1em;
+	opacity:0.85;
+	background-color:#e8f0f0;
+	z-index:99997;
+	padding:1.1em;
+	height:3.5em;
+	font-weight:700;
+}
+body.legacy * .lisov{
+	text-align:center;
+	vertical-align:baseline;
+	height:auto;
+	width:100%;
+}
+body.legacy * h1{
+	font-size:160%;
+	text-align:center;
+}
+body.legacy * h2{
+	font-size:128%;
+}
+.polosa{
+	margin:1px;
+}
+.otstup{
+	padding:2em;
+}
+.smallerfont{
+	font-size:75%;
+}
+.zakrugl{
+	border-radius:1em;
+	padding:1em;
+}
+.forscroll{
+	overflow:auto;
+}
+@media print{
+	.noprint{
+		visibility:hidden;
+		display:none;
+		position:absolute;
+		left: -99999px;
+	}
+}
+.normtabl{
+	border-spacing:0px;
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+}
+.normtabl td, th{
+	border:1px solid #000000;
+	margin: 0px;
+	padding:3px;
+}
+.pagewidth{
+	width:21cm;
+	overflow-x:hidden;
+	margin-left:auto;
+	margin-right:auto;
+}
+.integrated{
+	display:none;
+}
+span.spanlink{
+	color: blue;
+	cursor: pointer;
+	text-decoration: underline;
+}

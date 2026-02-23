@@ -1,0 +1,41 @@
+CHAS-EGE STARTER KIT
+
+Внимание! Проект находится под лицензией GNU GPLv3. Это примерно как Linux. То есть код - свободный и открытый.
+
+Начать лучше с "Линейный шаблон по шагам" (см. ниже).
+
+
+Учебники:
+https://learn.javascript.ru/
+https://git-scm.com/book/ru/v2
+
+Суйнёвник (issue tracker):
+https://github.com/nickkolok/chas-ege/issues
+
+
+
+Режим отладки шаблона (тут можно запускать код, ничего на своей ЭВМ не настраивая):
+https://math.vsu.ru/chas-ege/sh/otladka.html
+
+Он же на локальной ЭВМ после успешной сборки:
+chas-ege/dist/sh/otladka.html
+
+
+Инструкции разных лет для чтения (могут быть нюансы с актуальностью):
+
+Линейный шаблон по шагам (можно проделать по шагам и убедиться, что оно работает):
+https://math.vsu.ru/chas-ege/doc/shabl-b1-po-shagam.html
+
+Инструкция по гиту (для тех, кто привык к IDE типа VSCode, может быть неинтересно):
+https://math.vsu.ru/chas-ege/doc/git-beginning.html
+
+
+
+
+Примеры шаблонов с комментариями:
+https://github.com/nickkolok/chas-ege/pull/1832/files
+TODO: когда будет принят, заменить на ссылку на файл
+
+В следующих сериях: сборка проекта.
+
+

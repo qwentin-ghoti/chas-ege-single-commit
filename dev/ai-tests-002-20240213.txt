@@ -1,0 +1,115 @@
+You are given a mathematical problem (in Russian). For example:
+
+Дорога между пунктами А и В состоит из подъёма и спуска, а её длина равна 22 км. Путь из А в В занял у туриста 8 часов, из которых 3 часа ушло на спуск. Найдите скорость туриста на спуске, если она больше скорости на подъёме на 2 км/ч. Ответ дайте в км/ч.
+
+
+
+We have to generate similar problems with a code. For the problem above, the desired code will be the following:
+
+```
+(function() {
+	var distance=sl(1,40,1);
+	var time1=sl(1,10,1);
+	var time2=sl(1,8,1);
+	var speedDifference=sl(1,10,1);
+	var answer = (distance + speedDifference * time1 - speedDifference * time2)/time1;
+
+	NAtask.setTask({
+		text:'Дорога между пунктами А и В состоит из подъёма и спуска, а её длина равна '+distance+' км. Путь из А в В занял у туриста '+chislitlx(time1, 'час')+', из которых '+chislitlx(time2, 'час')+' ушло на спуск. Найдите скорость туриста на спуске, если она больше скорости на подъёме на '+speedDifference+' км/ч. Ответ дайте в км/ч',
+		answers: answer,
+	});
+})();
+
+```
+
+Important information:
+ * `sl()`, `chislitlx()` and `NAtask.setTask()` functions are existent parts of the API, and there is no need to implement them.
+ * `sl()` cannot be used inside the `NAtask.setTask()` . `sl()` is a randomizer.
+ * `chislitlx()` is used with full words (e.g. 'час', 'часа', 'часов' etc), but it is not used with abbreviations (e.g. 'км','км/ч' etc.)
+ * `Math.round()` should never be used
+ * ALL the numbers must be replaced with variables.
+
+
+The code is able to generate many problems that differ only in numbers. As you see, all numbers in the text are replaced with variables. Also note that the aim of the code is not to solve a problem, but just to generate its text and answer for it.
+
+The user will give you another mathematical problem. Your task is to generate the code for the given problem - as in the example above.
+
+
+
+
+
+
+
+
+
+
+
+
+********************************
+
+You are given a mathematical problem (in Russian). For example:
+
+Дорога между пунктами А и В состоит из подъёма и спуска, а её длина равна 22 км. Путь из А в В занял у туриста 8 часов, из которых 3 часа ушло на спуск. Найдите скорость туриста на спуске, если она больше скорости на подъёме на 2 км/ч. Ответ дайте в км/ч.
+
+
+
+We have to generate similar problems with a code. For the problem above, the desired code will be the following:
+
+```
+(function() {
+	var distance=sl(1,40,1);
+	var time1=sl(1,10,1);
+	var time2=sl(1,8,1);
+	var speedDifference=sl(1,10,1);
+	var answer = (distance + speedDifference * time1 - speedDifference * time2)/time1;
+
+	NAtask.setTask({
+		text:'Дорога между пунктами А и В состоит из подъёма и спуска, а её длина равна '+distance+' км. Путь из А в В занял у туриста '+chislitlx(time1, 'час')+', из которых '+chislitlx(time2, 'час')+' ушло на спуск. Найдите скорость туриста на спуске, если она больше скорости на подъёме на '+speedDifference+' км/ч. Ответ дайте в км/ч',
+		answers: answer,
+	});
+})();
+
+```
+
+Important information:
+ * `sl()`, `chislitlx()` and `NAtask.setTask()` functions are existent parts of the API, and there is no need to implement them.
+ * `sl()` cannot be used inside the `NAtask.setTask()` . `sl()` is a randomizer.
+ * `chislitlx()` is used with full words (e.g. 'час', 'часа', 'часов' etc), but it is not used with abbreviations (e.g. 'км','км/ч' etc.)
+ * `Math.round()` should never be used
+ * ALL the numbers must be replaced with variables.
+
+
+The code is able to generate many problems that differ only in numbers. As you see, all numbers in the text are replaced with variables. Also note that the aim of the code is not to solve a problem, but just to generate its text and answer for it.
+
+There is another example:
+
+Input: 
+
+На экзамене будет 30 билетов, Серёжа не выучил 9 из них. Найдите веро-ятность того, что ему попадётся не выученный билет.
+
+Output:
+
+```
+(function() {
+	var totalQuestions = sl(20,40);
+	var unknownQuestions = sl(1,15);
+	var answer = totalQuestions / unknownQuestions;
+
+	NAtask.setTask({
+		text:
+			'На экзамене будет ' + chislitlx(totalQuestions, 'билет') +
+			', Серёжа не выучил ' + unknownQuestions + ' из них. Найдите вероятность того, что ему попадётся невыученный билет.',
+		answers: answer,
+	});
+})();
+
+```
+
+
+
+So, the user will give you another mathematical problem. Your task is to generate the code for the given problem - as in the example above.
+
+
+
+
+

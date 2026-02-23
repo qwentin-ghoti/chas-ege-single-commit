@@ -1,9 +1,0 @@
-if(!window.nabor)
-	window.nabor={};
-window.nabor.importFrom({
-	nZad:8,
-	adres:'../zdn/arifmkr1/',
-	name:'arifmkr1',
-	prefix:'X',
-	notCheckable:1,
-});

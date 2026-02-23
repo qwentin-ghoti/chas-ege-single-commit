@@ -1,1 +1,0 @@
-window.nomer=1;
